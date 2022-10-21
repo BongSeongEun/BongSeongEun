@@ -10,8 +10,10 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
 <h1>Projects</h1>
-<div onclick="window.open('https://github.com/C-B-U/owl-forest')">🦉Owl Forest</div>
-<div>React Blog</div>
+
+### [🦉Owl Forest](https://github.com/C-B-U/owl-forest)
+
+### [(￣▽￣)"React Blog](https://github.com/For-React-Master/React-Study/tree/Our-First-Page)
 
 
 
