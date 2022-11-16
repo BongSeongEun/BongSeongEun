@@ -13,8 +13,7 @@
 
 ### [🦉Owl Forest](https://github.com/C-B-U/owl-forest)
 
-### [(￣▽￣)Reminder]([https://github.com/For-React-Master/React-Study/tree/Our-First-Page](https://bongseongeun.github.io/))
-
+### [(￣▽￣)Reminder](https://bongseongeun.github.io/)
 
 
 
